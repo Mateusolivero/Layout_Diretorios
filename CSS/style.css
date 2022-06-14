@@ -1,0 +1,39 @@
+body{
+    font-family: Arial;
+}
+
+
+.paginas{
+   font-size: 35px;
+ 
+}
+
+.titulo{
+    font-size: 45px;
+
+}
+
+
+
+.hoje{
+    color: darkred;
+    font-size: 24px;
+}
+
+.amanha{
+    color: darkblue;
+    font-size: 24px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 a {
+    color:seagreen;
+}
+
+p{
+    font-size: 35px;;
+}
